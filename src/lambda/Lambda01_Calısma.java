@@ -9,7 +9,7 @@ public class Lambda01_Calısma {public static void main(String[] args) {
     List<Integer> sayi = new ArrayList<>(Arrays.asList(34, 22, 16, 11, 35, 20, 63, 21, 65, 44, 66, 64, 81, 38, 15));
 
     printElStructured(sayi); //34 22 16 11 35 20 63 21 65 44 66 64 81 38 15  amelece
-    System.out.println("");
+
 
     printElFunctional(sayi);//34 22 16 11 35 20 63 21 65 44 66 64 81 38 15   Lambda Expression
     System.out.println("");
