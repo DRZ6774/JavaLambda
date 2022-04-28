@@ -149,4 +149,5 @@ public class Lambda01 {
             forEach(Lambda01::yazdir);
 }
 
+
 }
